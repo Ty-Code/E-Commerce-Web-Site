@@ -1,5 +1,7 @@
 # Ecommerce Project III
 
+Live version: https://tycode-ecommerce-final.netlify.app/
+
 ## 1. Setup
 
 Make sure you created a new week3 branch from the `main` branch of your forked repo. Then copy over the `ecommerce` folder you made last week into the `week3/project` folder.
@@ -8,11 +10,7 @@ Copy over the `assets` folder to your `ecommerce/src` folder. We will use these 
 
 ## 2. Requirements
 
-We are going to implement some cool new features this week now that we have all of the React building blocks at our disposal. By the end of the assignment your application should work similar to this:
-
-[![Week 3 Screenshot](../../assets/project/week3.png)](https://hyf-react-w3-example.netlify.app)
-
-There is a live version [here](https://hyf-react-w3-example.netlify.app)
+We are going to implement some cool new features this week now that we have all of the React building blocks at our disposal.
 
 What you need to have done at the end of the week:
 
