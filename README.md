@@ -2,13 +2,12 @@
 
 Live version: https://tycode-ecommerce-final.netlify.app/
 
-## Project Overview
 
 ## Built With
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=blue)
 
-## 2. Requirements
+## Requirements
 
 We are going to implement some cool new features this week now that we have all of the React building blocks at our disposal.
 
