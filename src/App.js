@@ -12,7 +12,7 @@ function App() {
       <BrowserRouter>
         <Header />
         <NavBar />
-      
+
         <FavoritesProvider>
           <Routes>
             <Route path="/" element={<ProductsPage />} />
@@ -20,14 +20,9 @@ function App() {
             <Route path="/products/:id" element={<ProductDetailsPage />} />
           </Routes>
         </FavoritesProvider>
-        
       </BrowserRouter>
     </>
   );
 }
-
-<div className="App">
-  <Header />
-</div>;
 
 export default App;
